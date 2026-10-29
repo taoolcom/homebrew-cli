@@ -1,8 +1,8 @@
 class Taool < Formula
   desc "Your App Store apps from the terminal, with the key taool holds"
   homepage "https://taool.com/cli/"
-  url "https://cdn.taool.com/cli/1.0.4/taool-1.0.4-macos.zip"
-  sha256 "1fc76f0a8020c7b9738ff7f6d96b41873454c0cf8e94d4e1c69b7c0d18ceef48"
+  url "https://cdn.taool.com/cli/1.0.5/taool-1.0.5-macos.zip"
+  sha256 "4edd3d2027f0c676719f53457eef0f1eb327e872dd3b0f9730808ae034618b61"
   depends_on macos: :sonoma
 
   def install
